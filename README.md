@@ -1,6 +1,5 @@
 <h1 align="center">Jeyanthan</h1>
 
-⚡  Interrested in web application pentesting ! 
 
 tools made for web app pentesting or ctf's : 
 
