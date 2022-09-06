@@ -15,3 +15,5 @@ Cheatsheet:
 - [sql injection](https://github.com/jjeyanthan/portswigger_lab/blob/main/sql_injection/CHEATSHEET.md)
 
 - [directory traversal](https://github.com/jjeyanthan/portswigger_lab/blob/main/directory_traversal/CHEATSHEET.md)
+
+- [SSRF](https://github.com/jjeyanthan/portswigger_lab/blob/main/ssrf/ssrf_cheatsheet.md)
